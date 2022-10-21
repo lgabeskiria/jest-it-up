@@ -1,5 +1,5 @@
 {
-  "name": "jest-it-up",
+  "name": "jest-it-up-ts",
   "version": "0.0.0-development",
   "description": "Automatically bump up global Jest thresholds whenever coverage goes above them",
   "keywords": [
