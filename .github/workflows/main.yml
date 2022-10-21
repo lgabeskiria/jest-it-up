@@ -29,9 +29,6 @@ jobs:
       - name: Test
         run: npm test
 
-      - name: Coverage
-        uses: codecov/codecov-action@v3
-
       - name: Release
         uses: cycjimmy/semantic-release-action@v3
         if: github.ref == 'refs/heads/master'
