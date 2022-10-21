@@ -29,7 +29,7 @@
   "scripts": {
     "lint": "eslint --ignore-path .gitignore . bin/*",
     "test": "jest",
-    "posttest": "./bin/jest-it-up",
+    "posttest": "./bin/jest-it-up-ts",
     "prepare": "husky install"
   },
   "dependencies": {
