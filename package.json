@@ -10,18 +10,18 @@
     "coverage",
     "threshold"
   ],
-  "homepage": "https://github.com/rbardini/jest-it-up",
+  "homepage": "https://github.com/lgabeskiria/jest-it-up",
   "bugs": {
-    "url": "https://github.com/rbardini/jest-it-up/issues"
+    "url": "https://github.com/lgabeskiria/jest-it-up/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rbardini/jest-it-up.git"
+    "url": "https://github.com/lgabeskiria/jest-it-up.git"
   },
   "license": "MIT",
   "author": "Rafael Bardini <rafael@rbardini.com> (https://rbardini.com)",
   "main": "lib/index.js",
-  "bin": "./bin/jest-it-up",
+  "bin": "./bin/jest-it-up-ts",
   "files": [
     "bin/*",
     "lib/*.js"
